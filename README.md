@@ -3,18 +3,25 @@
  <h1 align="center">Aplicação Web</h1>
  <hr>
 
-# <p align="center">Descrição</p>
-<p align="justify">
-Projeto criado para divugação de um trabalho autônomo que é realizado em um lugar fixo <b><i>Um salão de cabeleireiro</b></i>, houve à necessidade da parte do cliente para a criação de uma aplicação web que fica disponível em uma plataforma gratuita, de acordo com as necessidades do cliente, então para a necessidade do cliente foi criado um site com algumas páginas em HTML5/CSS3/Javascript, tanto a parte front-end. como a parte back-end.<p align="justify">
-Toda parte dinâmica do projeto web com a qual um usuário irá se  interagir foi criada a parte de front-end que está mais voltado a tudo que diz respeito ao conteúdo. Utilizamos o back-end para operar todas as funcionalidades de maneira efetiva e cumprindo seus objetivos do projeto criado.<br>
-<p align="justify">
-Utlizando o HTML 5 que é uma linguagem de marcação de Hipertexto (HyperText Markup Language) que trabalha com as bases do HTML clássico, mas possui tags adicionais que permitiu criar um sites mais modernos e mais compatíveis com as tecnologias digitais atuais.<br>
-E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimizado e com interação.
-<p align="justify">
-O JavaScript é uma das mais importantes tecnologias voltadas para o front-end e, unindo-se ao HTML,CSS formam um grupo de linguagens que abrangem praticamente todas as exigências do desenvolvimento de uma página completa, dinâmica e com boa performance. Utlizamos em uma parte do pojeto.
-<p align="justify">
-<b>O projeto elaborado serviu como divulgação do salão de cabeleireiro chamado Tenda dos Milagres, através do site, mas também como portfólio do serviço prestado para o cliente.</b>
-</p>
+<h1 align="center">Projeto Web – Tenda dos Milagres</h1>
+
+Este projeto foi desenvolvido para a divulgação de um trabalho independente realizado em um espaço físico fixo, o salão de cabeleireiro Tenda dos Milagres. A partir da necessidade apresentada pelo cliente, foi criada uma aplicação web hospedada em uma plataforma gratuita, com o objetivo de fortalecer a presença digital do negócio e ampliar sua visibilidade.
+
+A aplicação foi estruturada com tecnologias de HTML5, CSS3 e JavaScript, contemplando tanto o desenvolvimento front-end quanto back-end.
+
+🔹 Front-end
+
+Toda a parte visual e interativa do projeto foi desenvolvida no front-end, responsável pela experiência do usuário. Nessa camada, foram implementadas as páginas, conteúdos, navegação e elementos dinâmicos com os quais o usuário interage diretamente.
+
+HTML5: Utilizado para estruturar o conteúdo da aplicação, aproveitando suas tags semânticas modernas, que proporcionam melhor organização, acessibilidade e compatibilidade com tecnologias atuais.
+
+CSS3: Responsável pela estilização do site, garantindo um design elegante, responsivo e otimizado.
+
+JavaScript: Aplicado para tornar a página mais dinâmica, implementando interações e funcionalidades que melhoram a experiência do usuário.
+
+🔹 Back-end
+
+O back-end foi utilizado para garantir o funcionamento adequado das funcionalidades da aplicação, assegurando que todos os recursos operassem de forma eficiente e alinhados aos objetivos do cliente.
  
  
 ## Tecnologia
